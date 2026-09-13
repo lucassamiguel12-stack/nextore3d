@@ -826,4 +826,12 @@ footer p {
         max-width: 300px;
     }
 
+}.produto-foto {
+  width: 100%;
+  max-width: 220px;
+  height: 180px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 15px;
+  border-radius: 12px;
 }
